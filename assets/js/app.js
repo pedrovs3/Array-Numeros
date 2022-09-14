@@ -51,6 +51,5 @@ showArray(adicionaValores(100, numbers), 'main', 'Valores + 100');
 showArray(pares, 'main', 'Pares');
 showArray(impares, 'main', 'Impares');
 showArray(adicionaValores(21, impares), 'main', 'Impares + 21');
-showArray(valoresMenos4, 'main', 'valores - 4');
 showArray([somaValores - 4], 'main', 'Total - 4')
 showArray([totalMenos4], 'main', 'Valor - 4 = Total ');
